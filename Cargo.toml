@@ -1,10 +1,11 @@
 [package]
 name = "mao-now"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Robert Conde <rconde2003@gmail.com>"]
 edition = "2021"
 description = "An application to manage MAO clubs. Made with ❤ for Doral MAO."
 license = "AGPL-3.0"
+repository = "https://github.com/RobertConde/MAO-Now"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
